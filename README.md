@@ -1,2 +1,1 @@
-# bind-appointments-using-reactive-mvvm-calendar-xamarin
-How to bind appointments in Xamarin.Forms Calendar (SfCalendar) using Reactive MVVM
+**[View document in Syncfusion Xamarin Knowledge base](https://www.syncfusion.com/kb/12163/how-to-bind-appointments-in-xamarin-forms-calendar-sfcalendar-using-reactive-mvvm)**
